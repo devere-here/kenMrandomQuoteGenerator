@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple');
+
+#container{
+  margin: 0px 10px 75px 10px;
+  text-align:center;
+}
+#header{
+  color: white;
+  background-color: black;
+  font-family: 'Homemade Apple', cursive;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  padding-top: 20px;
+}
+
+#message{
+  background-image: url("http://www.designbolts.com/wp-content/uploads/2012/12/White-Paper-Seamless-Pattern-For-Website-Background.jpg");
+  font-family: 'Homemade Apple', cursive;
+  //text-align: center;
+  padding: 15px;
+  padding-bottom: 20px;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  
+}
+
+img{
+  height: 330px;
+  border-radius: 10%;
+  border: black;
+  border-width: 3px;
+  border-style: solid;
+  margin: 15px;
+}
+
+h2{
+  font-size:50px;
+}
+p{
+  font-size: 25px;
+}
+
+#quotePage{
+  text-align:center;
+  margin-bottom: 20px;
+}
+
+#message{
+  margin: 0px 50px 0px 50px;
+  height:250px;
+  font-size: 30px;
+}
+button{
+  color: white;
+  background-color: black;
+}
